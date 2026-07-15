@@ -78,12 +78,12 @@ fun_fact: I play guitar & synth when I'm not debugging 🎸
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aakashsharmatech21-netizen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsharmatech21-netizen&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-flame.vercel.app/api?username=aakashsharmatech21-netizen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats-eight-flame.vercel.app/api/top-langs/?username=aakashsharmatech21-netizen&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsharmatech21-netizen&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aakashsharmatech21-netizen&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -93,8 +93,6 @@ fun_fact: I play guitar & synth when I'm not debugging 🎸
 <p align="center">
   <img src="https://raw.githubusercontent.com/aakashsharmatech21-netizen/aakashsharmatech21-netizen/output/github-contribution-grid-snake.svg" />
 </p>
-
-> ⚠️ This snake animation needs a one-time GitHub Action setup — instructions below.
 
 ---
 
