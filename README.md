@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+Student+%7C+SQL%2C+Python+%26+Power+BI;Building+ETL+Pipelines+%26+AI-Integrated+Data+Solutions;Full+Stack+MERN+Developer;Building+Real+Products%2C+Not+Just+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL%2C+Python+%26+Power+BI;Turning+Raw+Data+into+Business+Insights;ETL+Pipelines+%26+Interactive+Dashboards;AI-Integrated+Data+Workflows" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,31 +19,32 @@
 ```yaml
 name: Aakash Sharma
 role: Final Year B.Tech CSE (Data Science) | AKTU 2027
-focus: SQL, Python & Power BI | ETL Pipelines | AI-Integrated Data Workflows | MERN Stack
-currently: Exploring Data Engineer, Data Analyst & SDE Roles
-fun_fact: I play guitar & synth when I'm not debugging 🎸
+focus: SQL, Python & Power BI | ETL Pipelines | Data Visualization | Business Analytics
+currently: Exploring Data Analyst & Data Analytics roles
+fun_fact: I play guitar & synth when I'm not cleaning messy datasets 🎸
 ```
 
-- 📊 Building **ETL pipelines and dashboards** with **Python, Pandas, SQL & Power BI**
-- 🤖 Integrating **AI/LLMs into data workflows** — prompt engineering, structured AI outputs, and AI-generated business reports
-- 🔭 Also building full-stack products with **React, Node.js, Express & MongoDB**
-- 🌱 Sharpening **DSA (C++)** — 50+ problems solved on LeetCode
-- 🏆 Won **1st place** at a college-level hackathon with an AI-powered notes app
-- 🧩 Completed an **AI Web Development Internship** with InAmigos Foundation — UI/UX audits, Figma proposals, and AI-assisted web tools
-- 💬 Ask me about **SQL, ETL pipelines, Power BI, MERN stack, or AI workflows**
-- ⚡ Fun fact: I ship, deploy, and *then* fix the bugs in production 😅
+- 📊 Building **ETL pipelines, SQL analytics, and Power BI dashboards** that turn raw business data into actionable insights
+- 🔍 Comfortable across the full data workflow — collect, clean, analyze, visualize, and present findings to stakeholders
+- 🤖 Using **AI/LLMs to accelerate reporting** — auto-generating plain-English business summaries from SQL/analysis output
+- 🌐 Also use **AI-assisted MERN development** to package analysis into interactive, presentable web dashboards for stakeholders
+- 🏆 Won **1st place** at a college-level hackathon
+- 🧩 Completed an **AI Web Development Internship** with InAmigos Foundation
+- 💬 Ask me about **SQL, ETL pipelines, Power BI, data cleaning, or business reporting**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,cpp,html,css,tailwind,git,github,figma,vercel,render,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,react,nodejs,git,github,figma&theme=dark" />
 </p>
 
-**Data & Analytics:** SQL · Python (Pandas, NumPy) · Power BI · ETL/ELT Pipelines · Exploratory Data Analysis
+**Data Analysis & BI:** SQL · MySQL · Python (Pandas, NumPy) · Power BI · Excel · ETL Pipelines · Exploratory Data Analysis · Data Cleaning · Data Modeling
 
-**AI & Analysis:** Prompt Engineering · LLM Integration · AI Workflow Design · Business Requirements Docs · User Stories · SDLC & Agile
+**Business & Reporting:** Requirement Gathering · KPI Tracking & Reporting · Dashboard Design · Stakeholder Communication · Statistics
+
+**AI & Presentation Layer:** Prompt Engineering · LLM Integration · AI-Assisted Web Presentation of Analysis Outputs (MERN)
 
 ---
 
@@ -52,37 +53,24 @@ fun_fact: I play guitar & synth when I'm not debugging 🎸
 <table>
   <tr>
     <td width="50%">
+      <h4>🛍️ Customer Shopping Behavior Analysis</h4>
+      <p>End-to-end analysis of 3,900 retail transactions — cleaned & engineered data in Pandas, wrote 10 analytical SQL queries (window functions, customer segmentation), and built an interactive Power BI dashboard with KPI cards and slicers for stakeholder decision-making.</p>
+      <img src="https://img.shields.io/badge/Python-Pandas-blue" />
+      <img src="https://img.shields.io/badge/MySQL-SQL-orange" />
+      <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow" />
+    </td>
+    <td width="50%">
       <h4>📈 Support Ticket Analytics Pipeline</h4>
       <p>End-to-end ETL pipeline — cleans 1,200+ tickets with Pandas, runs SQL analytics (incl. window functions), visualizes results in Power BI, and uses an LLM to auto-generate plain-English weekly reports.</p>
       <img src="https://img.shields.io/badge/Python-Pandas%20%7C%20SQL-blue" />
       <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow" />
       <img src="https://img.shields.io/badge/AI-OpenRouter%20API-blueviolet" />
     </td>
-    <td width="50%">
-      <h4>🎫 Support Ticket Classifier</h4>
-      <p>AI workflow that classifies customer complaints by priority/category and drafts suggested replies. Built with prompt engineering + OpenRouter API.</p>
-      <a href="#"><img src="https://img.shields.io/badge/Live-Vercel-black?logo=vercel" /></a>
-      <img src="https://img.shields.io/badge/MERN-AI%20Workflow-blueviolet" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🍲 NearBite</h4>
-      <p>Hyperlocal home-cook marketplace with pincode-based search & WhatsApp ordering. Includes a full Business Requirements Document. Built with a teammate.</p>
-      <a href="https://nearbite-sooty.vercel.app/"><img src="https://img.shields.io/badge/Live-Vercel-black?logo=vercel" /></a>
-      <img src="https://img.shields.io/badge/MERN-Stack-green" />
-    </td>
-    <td width="50%">
-      <h4>📹 SecureCall</h4>
-      <p>P2P video calling app using WebRTC & Socket.io — camera flip, torch, PiP, live chat.</p>
-      <a href="https://private-video-call-seven.vercel.app/"><img src="https://img.shields.io/badge/Live-Vercel-black?logo=vercel" /></a>
-      <img src="https://img.shields.io/badge/WebRTC-Socket.io-orange" />
-    </td>
   </tr>
 </table>
 
 <p align="center">
-  <i>🏆 Also built <b>Smart Notes Platform</b> — 1st place, college-level hackathon (AI-powered notes app with OpenRouter, Cloudinary & JWT auth)</i>
+  <i>🌐 Also build AI-assisted MERN web apps to present analysis in interactive formats — e.g. <b>Support Ticket Classifier</b>, an AI workflow that classifies and drafts replies to customer complaints.</i>
 </p>
 
 <p align="center">
